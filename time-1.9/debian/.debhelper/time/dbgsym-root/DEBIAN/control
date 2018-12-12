@@ -1,0 +1,12 @@
+Package: time-dbgsym
+Source: time
+Version: 1.9-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Bob Proulx <bob@proulx.com>
+Installed-Size: 27
+Depends: time (= 1.9-1)
+Section: debug
+Priority: optional
+Description: debug symbols for time
+Build-Ids: 22687e4be32826708d7e17f153cc80bcc0b810e9
